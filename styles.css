@@ -1,0 +1,25 @@
+.container{
+    background-color: black;
+    width: 360px;
+    height: 360px;
+
+
+}
+
+.block{
+    display: flex;
+    justify-content: center;
+    margin-top: 200px;  
+}
+
+.table{
+    width: 120px;
+    height: 120px;
+    border: solid 1px white;
+    float: left;
+    box-sizing: border-box;
+    color: white;
+    line-height: 120px;
+    text-align: center;
+    font-size: 60px;
+}
